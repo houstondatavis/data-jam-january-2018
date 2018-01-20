@@ -36,3 +36,6 @@ fields
 this is the raw data, which contains many more fields, but is also a lot messier
 
 You can read more about the JSON data structure here in the [Twitter API](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/intro-to-tweet-json).
+
+### Example:
+There is a <a href="SpaCY exploration.ipynb">jupyter notebook</a> in this repo as well that Justin Gosses created. It is messy and not docoumented (sorry), but gives an example how to examine some of the tweets in terms of their text using both python's native string functionality and the NLP (natural language processing) python library <a href="https://spacy.io/">SpaCY</a>. 
