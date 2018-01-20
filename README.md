@@ -42,4 +42,6 @@ You can read more about the JSON data structure here in the [Twitter API](https:
 
 2. There is also this great website that does some very nice dat visualization of any hashtag over the last few days. https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/
 
+3. A very basic Tableau viz is <a href="https://public.tableau.com/profile/justin.gosses#!/vizhome/Twitter_Scrape_HOUWX/Summary?publish=yes">here</a>.
+
 
